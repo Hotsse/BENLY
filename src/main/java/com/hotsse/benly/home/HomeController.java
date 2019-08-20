@@ -11,6 +11,7 @@ public class HomeController {
 	@RequestMapping(value="")
 	@ResponseBody
 	public String home() {
+		// test
 		return "hello world";
 	}
 }
