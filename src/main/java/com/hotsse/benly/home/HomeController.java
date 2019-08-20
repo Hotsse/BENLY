@@ -20,4 +20,3 @@ public class HomeController {
 		return "hello world";
 	}
 }
-
