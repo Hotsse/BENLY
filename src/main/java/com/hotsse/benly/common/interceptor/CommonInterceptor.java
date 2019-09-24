@@ -20,6 +20,7 @@ public class CommonInterceptor implements HandlerInterceptor  {
 
 		// TODO Auto-generated method stub
 		
+		
 		logger.debug("request url : " + request.getRequestURI());
 		logger.debug("userip : " + request.getRemoteAddr());
 		
